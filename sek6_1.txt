@@ -7,3 +7,4 @@ Mod1prostawersja
 Mod2prostawersja
 >>>>>>> prostawersja
 Zmiana1
+Zmiana2
