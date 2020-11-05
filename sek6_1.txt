@@ -8,3 +8,4 @@ Mod2prostawersja
 >>>>>>> prostawersja
 Zmiana1
 Zmiana2
+ZmianawKlonie
