@@ -1,2 +1,8 @@
 Modv1
+<<<<<<< HEAD
 Hotfix
+=======
+
+Mod1prostawersja
+Mod2prostawersja
+>>>>>>> prostawersja
